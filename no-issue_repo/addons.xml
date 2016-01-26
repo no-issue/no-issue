@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="repository.no-issue" name="Raw Media's Kodi Add-ons" version="0.0.1" provider-name="No-Issue">
+	<extension point="xbmc.addon.repository" name="No-Issue Add-on Repository">
+		<dir>
+			<info compressed="false">http://raw.github.com/no-issue/no-issue/master/no-issue_repo/addons.xml</info>
+			<checksum>http://raw.github.com/no-issue/no-issue/master/no-issue_repo/addons.xml.md5</checksum>
+			<datadir zip="true">http://raw.github.com/no-issue/no-issue/master/no-issue_repo/</datadir>
+		</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Install Add-ons from No-Issue</summary>
+		<description lang="en">Download and install add-ons from No-Issue repository.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+</addons>
