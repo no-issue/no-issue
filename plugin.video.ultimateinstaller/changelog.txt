@@ -1,2 +1,9 @@
+For Support please visit no-issue.ca
+
+V0.0.2
+
+-Updated repo
+
 v0.0.1
-Initial Release
+
+-Initial Release

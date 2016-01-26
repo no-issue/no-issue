@@ -1,20 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addons>
-<addon id="plugin.video.ultimateinstaller" name="No-Issue Ultimate Installer" version="0.0.2" provider-name="Gombeek">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video executable</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">No-Issue Ultimate Installer</summary>
-    <description lang="en">One stop installation tool for Kodi.
-	For support please visit www.no-issue.ca</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.no-issue" name="No-Issues's Kodi Add-ons" version="0.0.1" provider-name="No-Issue">
 	<extension point="xbmc.addon.repository" name="No-Issue Add-on Repository">
 		<dir>
@@ -29,4 +13,4 @@
 		<platform>all</platform>
 	</extension>
 </addon>
-</addons>
+
